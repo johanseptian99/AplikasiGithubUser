@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">Username</string>
+    <string name="url">URL</string>
+    <string name="user">Type</string>
+    <string name="todo">TODO</string>
+    <string name="id">ID:</string>
+    <string name="search">search</string>
+    <string name="search_hint">Masukkan username</string>
+    <string name="tab_repository">Repository</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="tab_userfavorite">Users Favorite</string>
+    <string name="tab_repofavorite">Repo Favorite</string>
+    <string name="content_tab_repository">Welcome Repository</string>
+    <string name="content_tab_followers">This is Tab Followers</string>
+    <string name="content_tab_following">This is Tab Following</string>
+    <string name="name">Name</string>
+    <string name="bio">Bio</string>
+    <string name="repository">%s \nRepository</string>
+    <string name="followers">%s \nFollowers</string>
+    <string name="following">%s \nFollowing</string>
+    <string name="add_snackbar">%s Ditambahkan ke Favorite !!!</string>
+    <string name="delete_snackbar">%s Dihapus Favorite !!!</string>
+    <string name="github_user">GitHub User</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="language">Language</string>
+    <string name="value">5</string>
+    <string name="date_update">Date Update</string>
+    <string name="star">Star</string>
+    <string name="email">Email</string>
+    <string name="setting">Setting</string>
+    <string name="user_favorite">User Favorite</string>
+    <string name="repo_favorite">Repo Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reminder">Reminder at 9.00 AM</string>
+    <string name="key_reminder">reminder</string>
+    <string name="reminder_title">Github User</string>
+    <string name="reminder_message">Buka aplikasi Github User untuk memperoleh berita terbaru</string>
+    <string name="key_darkmode">darkmode</string>
+</resources>
